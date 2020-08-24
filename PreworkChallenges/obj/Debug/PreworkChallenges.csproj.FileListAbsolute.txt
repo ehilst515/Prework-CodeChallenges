@@ -1,0 +1,6 @@
+/Users/kdonahe/Desktop/401_Projects/Prework-CodeChallenges/PreworkChallenges/PreworkChallenges/bin/Debug/PreworkChallenges.exe
+/Users/kdonahe/Desktop/401_Projects/Prework-CodeChallenges/PreworkChallenges/PreworkChallenges/bin/Debug/PreworkChallenges.pdb
+/Users/kdonahe/Desktop/401_Projects/Prework-CodeChallenges/PreworkChallenges/PreworkChallenges/obj/Debug/PreworkChallenges.csprojAssemblyReference.cache
+/Users/kdonahe/Desktop/401_Projects/Prework-CodeChallenges/PreworkChallenges/PreworkChallenges/obj/Debug/PreworkChallenges.csproj.CoreCompileInputs.cache
+/Users/kdonahe/Desktop/401_Projects/Prework-CodeChallenges/PreworkChallenges/PreworkChallenges/obj/Debug/PreworkChallenges.exe
+/Users/kdonahe/Desktop/401_Projects/Prework-CodeChallenges/PreworkChallenges/PreworkChallenges/obj/Debug/PreworkChallenges.pdb
