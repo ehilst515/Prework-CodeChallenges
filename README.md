@@ -8,6 +8,9 @@ Create a Console application that requests 5 numbers between 1-10 from the user.
 Selection and Scoring Algorithm
 You can select any number from the list, however your scoring will be depend on the frequency of that number in the list. E.g for [2,2,3,5,4] if you pick 2 your score will be 4 (2 * 2) but if you pick 5 your score will be 5 (5 * 1)
 
+![Problem 1 Output](UNADJUSTEDNONRAW_mini_18.jpg)
+
+
 
 ## Problem 2
 Given a year, report if it is a leap year.
@@ -19,3 +22,5 @@ on every year that is evenly divisible by 4
     unless the year is also evenly divisible by 400
 
 For example, 1997 is not a leap year, but 1996 is. 1900 is not a leap year, but 2000 is.
+
+![Problem 2 Output](UNADJUSTEDNONRAW_mini_19.jpg)
