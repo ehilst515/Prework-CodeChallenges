@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreworkChallenges", "PreworkChallenges\PreworkChallenges.csproj", "{98C0AD6D-18C6-4BD3-AEB9-D9BB8DDD5D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C0AD6D-18C6-4BD3-AEB9-D9BB8DDD5D26}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{98C0AD6D-18C6-4BD3-AEB9-D9BB8DDD5D26}.Debug|anycpu.Build.0 = Debug|anycpu
+		{98C0AD6D-18C6-4BD3-AEB9-D9BB8DDD5D26}.Release|anycpu.ActiveCfg = Release|anycpu
+		{98C0AD6D-18C6-4BD3-AEB9-D9BB8DDD5D26}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
